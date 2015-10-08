@@ -1,0 +1,15 @@
+{
+  "name": "chatapp",
+  "version": "0.0.0",
+  "description": "chatapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Abhinav nehra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.3.7"
+  }
+}
